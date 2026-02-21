@@ -7,6 +7,7 @@ brahma-world-ipv6
 dct-de
 dct-fr
 dnsbunker
+dnscry.pt-johannesburg-ipv4
 doh.ibksturm
 doh.tiar.app
 doh.tiar.app-doh
