@@ -1,3 +1,5 @@
+adfilter-adl
+adfilter-adl-ipv6
 adfilter-per
 adfilter-per-ipv6
 adfilter-syd
@@ -7,6 +9,7 @@ brahma-world-ipv6
 dct-de
 dct-fr
 dnsbunker
+dnscry.pt-hongkong03-ipv4
 dnscry.pt-johannesburg-ipv4
 doh.ibksturm
 doh.tiar.app
