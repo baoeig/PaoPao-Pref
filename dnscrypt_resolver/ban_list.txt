@@ -6,6 +6,7 @@ adfilter-syd
 amsterdam03-ipv4
 brahma-world
 brahma-world-ipv6
+cisco-doh
 dct-de
 dct-fr
 dnsbunker
