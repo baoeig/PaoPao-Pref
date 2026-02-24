@@ -1,0 +1,17 @@
+adfilter-adl
+adfilter-per
+adfilter-syd
+brahma-world
+dct-de
+dct-fr
+dnsbunker
+doh.ibksturm
+doh.tiar.app
+doh.tiar.app-doh
+doh.tiarap.org
+ibksturm
+jp.tiar.app
+jp.tiar.app-doh
+jp.tiar.app-doh-ipv6
+jp.tiar.app-ipv6
+jp.tiarap.org
